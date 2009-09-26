@@ -1,6 +1,6 @@
-=== DNSSEC Test ===
+=== Lnk Juice Tracking ===
 Contributors: mliljedahl
-Tags: lnkjuice, tracking code
+Tags: lnkjuice, lnk juice, linkjuice, link juice, tracking code
 Requires at least: 2.6
 Tested up to: 2.9
 Stable tag: 1.0
