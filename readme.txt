@@ -1,7 +1,7 @@
 === Lnk Juice Tracking ===
 Contributors: mliljedahl
 Tags: lnkjuice, lnk juice, linkjuice, link juice, tracking code
-Requires at least: 2.6
+Requires at least: 2.0
 Tested up to: 2.9
 Stable tag: 1.0
 
@@ -23,9 +23,9 @@ Related Links:
 
 == Installation ==
 
-1. Upload the full directory into your wp-content/plugins directory
-2. Activate the plugin at the plugin administration page
-3. Enter your tracking code under the plugins menu
+1. Upload the full directory into your `wp-content/plugins` directory
+1. Activate the plugin at the plugin administration page
+1. Enter your tracking code under the plugins menu
 
 == Frequently Asked Questions ==
 
