@@ -17,6 +17,7 @@ You are free to do any changes in the code so it fits your theme but please let 
 
 Related Links:
 
+* <a href="http://www.lnkjuice.com/" title="Lnk Juice">LnkJuice</a>
 * <a href="http://www.liljedahl.info/projects/wp-lnkjuice/" title="Lnk Juice for WordPress">Plugin Homepage</a>
 * <a href="http://www.liljedahl.info/projects/wp-lnkjuice/changelog/" title="Changelog of Lnk Juice for WordPress">Changelog</a>
 
