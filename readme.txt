@@ -11,7 +11,7 @@ This is a simple plugin that adds your Lnk Juice tracking code to the head tag o
 
 Simple plugin that adds your Lnk Juice tracking code to the head tag of your WordPress blog. When activated you must enter your Lnk Juice Tracking Code under the Plugins menu for it to work. At the moment it supports Swedish and English.
 
-If you do not yet have an account go get one at LnkJuice.com!
+If you do not yet have an account go get one at <a href="http://www.lnkjuice.com/" title="Lnk Juice">LnkJuice.com</a>!
 
 You are free to do any changes in the code so it fits your theme but please let me, markus(at)liljedahl.me know so I maby can do a global update.
 
