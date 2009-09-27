@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LnkJuice in italiano\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-26 01:07+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gianni Diurno (aka gidibao) <gidibao@gmail.com>\n"
+"Language-Team: Gianni Diurno | http://gidibao.net/ <gidibao@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;esc_html_e;esc_attr_e\n"
+"X-Poedit-Basepath: /Users/Katja/Desktop/LnkJuice\n"
+"X-Poedit-SearchPath-0: /Users/Katja/Desktop/LnkJuice\n"
+
+#: /Users/Katja/Desktop/LnkJuice/lnkjuice.php:48
+msgid "Options saved."
+msgstr "Le opzioni sono state salvate"
+
+#: /Users/Katja/Desktop/LnkJuice/lnkjuice.php:56
+msgid "Lnk Juice Settings"
+msgstr "Impostazioni Lnk Juice"
+
+#: /Users/Katja/Desktop/LnkJuice/lnkjuice.php:58
+msgid "You need to enter your Lnk Juice Tracking Code here to get the plugin to work. If you do not yet have an account go get one at <a href=\"http://www.lnkjuice.com/\">LnkJuice.com</a>!"
+msgstr "Affinché il plugin possa funzionare, sarà necessario che tu inserisca qui il tuo codice di tracciamento Lnk Juice. Qualora non avessi ancora un account, attivane uno: <a href=\"http://www.lnkjuice.com/\">LnkJuice.com</a>!"
+
+#: /Users/Katja/Desktop/LnkJuice/lnkjuice.php:60
+msgid "In your <strong>HTML tracking code</strong> look for a string like:"
+msgstr "Cerca nell'HTML del tuo <strong>codice di tracciamento</strong> una stringa del tipo:"
+
+#: /Users/Katja/Desktop/LnkJuice/lnkjuice.php:64
+msgid "Then <strong>Your Tracking Code</strong> is: <em>abcdefghijklmnopqrstuvwxyz123456</em>"
+msgstr "quindi il tuo <strong>codice di tracciamento</strong> é: <em>abcdefghijklmnopqrstuvwxyz123456</em>"
+
+#: /Users/Katja/Desktop/LnkJuice/lnkjuice.php:70
+msgid "Your Tracking Code"
+msgstr "Il tuo codice di tracciamento"
+
+#: /Users/Katja/Desktop/LnkJuice/lnkjuice.php:76
+msgid "Save Changes"
+msgstr "Salva le opzioni"
+
