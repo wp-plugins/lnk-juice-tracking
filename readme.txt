@@ -1,6 +1,6 @@
 === Lnk Juice Tracking ===
 Contributors: mliljedahl
-Tags: lnkjuice, lnk juice, linkjuice, link juice, tracking code
+Tags: lnkjuice, lnk juice, linkjuice, link juice, lnk juice tracking, lnkjuice tracking
 Requires at least: 2.1
 Tested up to: 2.9
 Stable tag: 1.1
