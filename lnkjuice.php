@@ -4,11 +4,11 @@ Plugin Name: Lnk Juice Tracking
 Plugin URI: hhttp://www.liljedahl.info/projects/wp-lnkjuice/
 Description: Simple plugin that adds your Lnk Juice tracking code to the head tag. When activated you must <a href="plugins.php?page=lnkjuice-config">enter your Lnk Juice Tracking Code</a> under the Plugins menu for it to work. If you do not yet have an account go get one at <a href="http://www.lnkjuice.com/">LnkJuice.com</a>!
 Author: Markus Liljedahl 
-Version: 1.0
+Version: 1.1
 Author URI: http://www.liljedahl.info
 */
 
-// For backwards compatibility, esc_attr_e was added in 2.8
+// For backwards compatibility, esc_attr_e was added in 2.8 and attribute_escape is from 2.8 marked as deprecated.
 if (! function_exists('esc_attr_e')) {
 	function esc_attr_e( $text ) {
 		return attribute_escape( $text );
@@ -67,7 +67,7 @@ function print_LnkJuice_management() {
 	
 		<table class="form-table">
 			<tr valign="top">
-			<th scope="row"><label for="lnkjuice_tracking_code"><?php esc_html_e('Your Tracking Code', 'lnkjuice'); ?></label></th>
+			<th scope="row"><label for="lnkjuice_tracking_code"><?php esc_attr_e('Your Tracking Code', 'lnkjuice'); ?></label></th>
 			<td><input name="lnkjuice_tracking_code" type="text" id="lnkjuice_tracking_code" value="<?php echo get_option('lnkjuice_tracking_code'); ?>" class="regular-text" maxlength="32" /></td>
 			</tr>
 		</table>

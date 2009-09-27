@@ -1,9 +1,9 @@
 === Lnk Juice Tracking ===
 Contributors: mliljedahl
 Tags: lnkjuice, lnk juice, linkjuice, link juice, tracking code
-Requires at least: 2.0
+Requires at least: 2.1
 Tested up to: 2.9
-Stable tag: 1.0
+Stable tag: 1.1
 
 This is a simple plugin that adds your Lnk Juice tracking code to the head tag of your WordPress blog.
 
@@ -38,6 +38,10 @@ Please send me an email to markus(at)liljedahl.me with your question and Ill ans
 1. The settings menu
 
 == Changelog ==
+
+= 1.1 =
+* Fixed bug when using WP 2.7
+* Added Italian language thanks to Gianni Diurno at gidibao.net
 
 = 1.0 =
 * The initial release
