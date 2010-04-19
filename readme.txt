@@ -2,8 +2,8 @@
 Contributors: mliljedahl
 Tags: lnkjuice, lnk juice, linkjuice, link juice, lnk juice tracking, lnkjuice tracking
 Requires at least: 2.1
-Tested up to: 2.9
-Stable tag: 1.1
+Tested up to: 3.0
+Stable tag: 1.2
 
 This is a simple plugin that adds your Lnk Juice tracking code to the head tag of your WordPress blog.
 
@@ -18,8 +18,8 @@ You are free to do any changes in the code so it fits your theme but please let 
 Related Links:
 
 * <a href="http://www.lnkjuice.com/" title="Lnk Juice">Lnk Juice</a>
-* <a href="http://www.liljedahl.info/projects/wp-lnkjuice/" title="Lnk Juice for WordPress">Plugin Homepage</a>
-* <a href="http://www.liljedahl.info/projects/wp-lnkjuice/changelog/" title="Changelog of Lnk Juice for WordPress">Changelog</a>
+* <a href="http://www.liljedahl.me/projekt/wp-lnkjuice/" title="Lnk Juice for WordPress">Plugin Homepage</a>
+* <a href="http://wordpress.org/extend/plugins/lnk-juice-tracking/changelog/" title="Changelog of Lnk Juice for WordPress">Changelog</a>
 
 == Installation ==
 
@@ -29,7 +29,7 @@ Related Links:
 
 == Frequently Asked Questions ==
 
-= My question isn't answered heret =
+= My question isn't answered here =
 
 Please send me an email to markus(at)liljedahl.me with your question and Ill answer it as soon as possible.
 
@@ -38,6 +38,11 @@ Please send me an email to markus(at)liljedahl.me with your question and Ill ans
 1. The settings menu
 
 == Changelog ==
+
+= 1.2 =
+* Added two new features, detailed statistics and the possibility to deactivate subdomain conversion
+* Added caching to reduce the number of database questions.
+* Italian language is now broken, english and swedish is still good
 
 = 1.1 =
 * Fixed bug when using WP 2.7
