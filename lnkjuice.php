@@ -16,7 +16,7 @@ if (! function_exists('esc_attr_e')) {
 }
 
 // The html code that goes in to the header
-function add_LnkJuice_head() {
+function add_LnkJuice_footer() {
 	$code = get_option('lnkjuice_cached_code');
 	
 	if(!is_admin() && strlen($code) >= 32) {
@@ -136,6 +136,6 @@ function add_LnkJuice_admin_page()
 }
 
 load_plugin_textdomain('lnkjuice', 'wp-content/plugins/' . dirname(plugin_basename(__FILE__)) . '/i18n');
-add_action('wp_head', 'add_LnkJuice_head');
+add_action('wp_footer', 'add_LnkJuice_footer');
 add_action('admin_menu', 'add_LnkJuice_admin_page');
 ?>
