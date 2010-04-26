@@ -4,7 +4,7 @@ Plugin Name: Lnk Juice Tracking
 Plugin URI: hhttp://www.liljedahl.me/projekt/wp-lnkjuice/
 Description: Simple plugin that adds your Lnk Juice tracking code to the head tag. When activated you must <a href="plugins.php?page=lnkjuice-config">enter your Lnk Juice Tracking Code</a> under the Plugins menu for it to work. If you do not yet have an account go get one at <a href="http://www.lnkjuice.com/">LnkJuice.com</a>!
 Author: Markus Liljedahl 
-Version: 1.2
+Version: 1.2.1
 Author URI: http://www.liljedahl.me/
 */
 
